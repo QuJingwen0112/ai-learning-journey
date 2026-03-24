@@ -1,0 +1,11 @@
+nums=[4,1,2,3,4,2,3,1,-1]
+nums.append(0)#尾部添加元素
+print(nums)
+nums.insert(1,0)#在指定位置nums[1]添加0
+print(nums)
+nums.remove(2)#删除列表第一个出现的2
+print(nums)
+print(nums[-1])#最后一个
+print(nums[0:3])#0~2
+print(nums[-3:])#倒数第三个之后所有
+print(nums.index(2))#第一个2的索引值
