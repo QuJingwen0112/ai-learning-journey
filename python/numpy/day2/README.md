@@ -1,4 +1,4 @@
-# Week 2 - NumPy & Data Processing
+# Day 2 - NumPy & Data Processing
 
 ## What I Learned
 
