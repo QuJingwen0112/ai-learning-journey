@@ -1,4 +1,4 @@
-# day 1 - Python Basics
+# Day 1 - Python Basics
 
 ## What I did
 
